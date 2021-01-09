@@ -12,7 +12,6 @@ The feature engineering phase, training, evaluation and conclusions are found in
 
 The project report is in the file REPORT.pdf
 
-util.py  contains some utility functions used in the notebooks
 
 
 No special configuration or additional steps are necessary.
